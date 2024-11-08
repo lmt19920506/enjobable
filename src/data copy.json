@@ -1,0 +1,71 @@
+{
+    "container": {
+        "width": "550px",
+        "height": "550px"
+    },
+    "blocks": [
+        {
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__b8d78ae6ef0ccf65541491721d3be3eb.png",
+            "x": 100,
+            "y": 100,
+            "width": 190,
+            "height": 190
+        },
+        {
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__dfbfb763478485e72c71df1bc2577791.png",
+            "x": 330,
+            "y": 330,
+            "width": 90,
+            "height": 90
+        },
+        {
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__be70b79900a2681a9c05f8e80c20789d.png",
+            "x": 500,
+            "y": 10,
+            "width": 90,
+            "height": 90
+        },
+        {
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__1d8b3cca2ee74257b2ab65f0d6e0b3e4.png",
+            "x": 320,
+            "y": 33,
+            "width": 90,
+            "height": 90
+        },
+        {
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__396585198d24975dc7f09808e8f7cd69.png",
+            "x": 690,
+            "y": 90,
+            "width": 90,
+            "height": 90
+        },
+        {
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__73334ad93d14a50d879ade19fe13b07b.png",
+            "x": 1110,
+            "y": 600,
+            "width": 90,
+            "height": 90
+        },{
+            "name": "图片",
+            "type": "image",
+            "url": "https://axure-file.lanhuapp.com/md5__49befc1b4da657966a98332c69507a3f.png",
+            "x": 789,
+            "y": 1000,
+            "width": 90,
+            "height": 90
+        }
+        
+    ]
+}
