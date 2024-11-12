@@ -1,10 +1,12 @@
 <template>
     <div>
-    <p>11</p>
+    <header-nav></header-nav>
     </div>
 </template>
 
-<script setup></script>
+<script setup>
+import headerNav from '@/components/header.vue'
+</script>
 
 <style lang="scss" scoped>
 p {
